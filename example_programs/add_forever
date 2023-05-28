@@ -2,3 +2,5 @@ LDI 0
 ADD 15
 OUT
 JMP 2
+
+DTA 15 1   increment

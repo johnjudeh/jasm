@@ -1,0 +1,11 @@
+LDA 15
+ADD 14
+STA 15
+LDI 0
+ADD 15
+OUT
+JC 0
+JMP 4
+
+DTA 14 1    increment
+DTA 15 0    add_amount
